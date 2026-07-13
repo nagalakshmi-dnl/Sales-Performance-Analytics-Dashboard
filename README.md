@@ -209,7 +209,7 @@ Aspiring Data Analyst | Business Intelligence Analyst | Clinical Data Analyst
 
 GitHub: https://github.com/nagalakshmi-dnl
 
-LinkedIn: [*([Add your LinkedIn profile URL here](https://www.linkedin.com/in/devanaboina-naga-lakshmi-a290531b3/))*]
+LinkedIn: https://www.linkedin.com/in/devanaboina-naga-lakshmi-a290531b3/
 
 ---
 
