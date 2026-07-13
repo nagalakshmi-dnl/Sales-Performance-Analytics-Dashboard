@@ -1,6 +1,8 @@
 # 📊 Sales Performance Analytics Dashboard (2023–2026)
 
-A comprehensive end-to-end Business Intelligence project that transforms raw sales data into actionable business insights using **MySQL** and **Microsoft Power BI**. The dashboard enables decision-makers to monitor sales performance, profitability, customer behavior, product performance, and regional trends through interactive visualizations.
+![Dashboard](Images/Executive_Summary_Dashboard.PNG)
+
+An end-to-end Business Intelligence solution that analyzes over 5,000 sales transactions to uncover trends in revenue, profitability, customer behavior, regional performance, and product sales using MySQL and Microsoft Power BI.
 
 ---
 
